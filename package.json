@@ -1,0 +1,24 @@
+{
+  "name": "sandook",
+  "version": "1.0.0",
+  "description": "Image Inventory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenSyntax/sandook.git"
+  },
+  "author": "Abhisheek Kumar Ravi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greenSyntax/sandook/issues"
+  },
+  "homepage": "https://github.com/greenSyntax/sandook#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.7"
+  }
+}
