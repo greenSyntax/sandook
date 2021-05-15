@@ -1,6 +1,8 @@
 # Sandook Image 🍕
 Image Storage Service with Base64 Encoded
 
+![SANDOOK_POSTER_IMAGE](https://github.com/greenSyntax/babban/blob/main/assets/sheet-graph.png)
+
 ### Request
 ```
 curl --location --request POST 'localhost:5000/upload' \
