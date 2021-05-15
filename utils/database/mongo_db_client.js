@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const databaseConnect = () => {
+const databaseConnect = (connection_string) => {
   return new Promise((resolve, reject) => {
     const connection_string =
       "mongodb+srv://greencdn:42kT2NFhQ9DydWdA@green-store-db.omehk.mongodb.net/sandook-cdn";
