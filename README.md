@@ -1,4 +1,4 @@
-# Sandook Image CDN
+# Sandook Image 🍕
 Image Storage Service with Base64 Encoded
 
 ### Request
