@@ -1,14 +1,14 @@
-# Sandook Image 🍕
+# Sandook 🍕
 In-House Media Storage Service
 
 ![SANDOOK_POSTER_IMAGE](https://github.com/greenSyntax/sandook/blob/main/sandook-poster.jpeg)
 
 ### Features
--[x] Base64 Encoded Image Copression
--[ ] Upload Image in bucket
--[ ] Support for Other Media/MIME
--[ ] Add Authorization Support
--[ ] Dashboard for Media
+- [x] Base64 Encoded Image Copression
+- [ ] Upload Image in bucket
+- [ ] Support for Other Media/MIME
+- [ ] Add Authorization Support
+- [ ] Dashboard for Media
 
 ### Request
 ```
