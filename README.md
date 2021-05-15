@@ -1,7 +1,7 @@
 # Sandook Image 🍕
 In-House Media Storage Service
 
-![SANDOOK_POSTER_IMAGE](https://github.com/greenSyntax/babban/blob/main/assets/sheet-graph.png)
+![SANDOOK_POSTER_IMAGE](https://github.com/greenSyntax/sandook/blob/main/sandook-poster.jpeg)
 
 ### Features
 -[x] Base64 Encoded Image Copression
