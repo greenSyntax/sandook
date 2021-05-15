@@ -1,7 +1,14 @@
 # Sandook Image 🍕
-Image Storage Service with Base64 Encoded
+In-House Media Storage Service
 
 ![SANDOOK_POSTER_IMAGE](https://github.com/greenSyntax/babban/blob/main/assets/sheet-graph.png)
+
+### Features
+-[x] Base64 Encoded Image Copression
+-[ ] Upload Image in bucket
+-[ ] Support for Other Media/MIME
+-[ ] Add Authorization Support
+-[ ] Dashboard for Media
 
 ### Request
 ```
