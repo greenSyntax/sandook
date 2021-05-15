@@ -1,4 +1,4 @@
 module.exports = {
-    APP_NAME = 'Sandook',
-    APP_VERSION = '1.0',
+  APP_NAME: "Sandook",
+  APP_VERSION: "1.0",
 };
