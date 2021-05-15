@@ -1,7 +1,7 @@
 # Sandook Image 🍕
 Image Storage Service with Base64 Encoded
 
-![SANDOOK_POSTER_IMAGE](https://github.com/greenSyntax/babban/blob/main/assets/sheet-graph.png)
+![SANDOOK_POSTER_IMAGE](https://github.com/greenSyntax/sandook/blob/main/sandook-poster.jpeg)
 
 ### Request
 ```
